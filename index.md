@@ -1,26 +1,28 @@
-![logo](sae_logo_2_a.png)
-
 # About
-![icon](sae_icon128.png)  
-Virtual Voice Singer の小栗さえだよ！🐾🐾  
-歌ってみたなどで活動中です。ゲーム好きすぎて作業が捗らない～～🎮🥳✨
-
-色々できるようにはなったんだけど、これってもしや器用貧乏では――？ｏ(｡・‧̫・｡)ｏ？
+小栗さえだよ！🐾🐾  
+バーチャルおうたを歌います🎤🎤
+放送関係のおしごとをやってるよ📺📺 
+音系でみんなにお役立つ情報とかも発信していきたい🎧🎧 
+できること👉おうた🎙️、Mix🎚️、DTM🎼、イラスト🖌️、ロゴデザイン🎨、ぷろぐらみんぐ💻
 
 # Profile
 - **Name*** 小栗さえ (Okuri Sae)
-- **Location*** トーキョーの東の方
+- **Location*** トーキョー
 - **Be good at*** DTM、イラストレーション、デザイン、プログラミング、Web開発
-- **Hobbies*** VTuber活動（バ美肉/声）、歌ってみた、PCゲーム、テーブルゲーム
-- **My games*** Apex, PUBG, LoL, Minecraft, ARK, Don't Starve, Factorio, Raft, Civ, 麻雀, ポーカー
+- **My games*** Apex, PUBG, LoL, Minecraft, ARK, Don't Starve, Factorio, Raft, Civilization, 麻雀, ポーカー
 
 ## Skills
-### Creative
-  - **画像編集*** Adobe Photoshop
-  - **音声編集*** FL Studio20, Cakewalk by BandLab
-  - **動画編集*** Adobe AfterEffects, AviUtil
-  - **3Dモデリング/編集*** Blender, Unity
-  - **その他*** OBS, Slack, Discord, GoogleApps
+### OS
+Mac, Windows, Linux(Cent OS, Ubuntu)
+
+### Language
+JavaScript, Scala, PHP, Java, CSS
+
+### Middle Ware
+MySQL, PostgreSQL, Laravel, PlayFramework, Node.js, JQuery 
+
+### Tools
+Adobe Photoshop, FL Studio20, AviUtil, Blender, Unity, OBS, Slack, GoogleApps
 
 ## Contact
 - [Twitter](https://twitter.com/OkuriSae)
@@ -28,16 +30,16 @@ Virtual Voice Singer の小栗さえだよ！🐾🐾
 
 # Activities
 ## [Youtube](https://www.youtube.com/channel/UCj9IZnU2bKqGqABhQUU6F8g)
-歌ってみたとか🎮🎤
+歌ってみたとかゲーム配信🎮🎤
+
+### ヒビカセ　歌ってみた
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-S9j9S9xMe4?start=33" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Agape 歌ってみた Short.ver
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_2K12bB7bZk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### シュガーソングとビターステップ 歌ってみた
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pPSmWNnVEjA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### メランコリック 歌ってみた
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VKdGmqevhLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## [SoundCloud](https://soundcloud.com/sae-okuri)
 オリジナル楽曲(BGM)とか🎹🎼
@@ -79,10 +81,8 @@ Virtual Voice Singer の小栗さえだよ！🐾🐾
 水滴ワイプアニメーション  
 <iframe src="https://www.openprocessing.org/sketch/743453/embed/" width="1196" height="478"></iframe>
 
-## [Blomaga](https://ch.nicovideo.jp/okurisae)
-ボイチェンや歌ってみたの解説とか📝🎓
-- [歌ってみた動画の作り方](https://ch.nicovideo.jp/okurisae/blomaga/ar1737334)
-- [ボイチェンカラオケHowTo](https://ch.nicovideo.jp/okurisae/blomaga/ar1737218)
-- [ボイスチェンジャーのえらびかた](https://ch.nicovideo.jp/okurisae/blomaga/ar1726050)
-- [さえのボイチェン構成≪そふと編≫](https://ch.nicovideo.jp/okurisae/blomaga/ar1722400)
-- [さえのボイチェン構成≪はーど編≫](https://ch.nicovideo.jp/okurisae/blomaga/ar1721776)
+## [Blog](https://saeokuri.hatenablog.com/entry/2019/12/15/072415)
+音響系の解説とか📝🎓
+
+### 解説動画
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NeuQG8NdSVc?start=33" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
