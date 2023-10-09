@@ -6,15 +6,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meish* メンテナンスのお知らせ</title>
     <style>
-body {
-    margin: 0;
-    padding: 0;
-    height: 100vh;
-    background: url('/meish503.jpg') no-repeat center center fixed;
-    background-size: cover;
-}
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            background: url('meish503.jpg') no-repeat center center fixed;
+            background-size: cover;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+
+        img {
+            max-width: 30%;
+            height: auto;
+            margin-bottom: 20px; /* 画像とテキストの間のスペース */
+        }
     </style>
 </head>
 <body>
+    <img src="meish_logo.png" alt="Meish">
+    <div style="text-align: center;">
+        <h1>メンテナンスのお知らせ</h1>
+        <h3>
+            X(旧Twitter) APIの変更により、現在ログイン障害が発生しています。<br>
+            大変恐れ入りますが復旧の目処は未定となっており、当サービスにてプロフィールを<br>
+            公開されていた方は、別のプロフィールサービスをご利用いただければ幸いです。
+        </h3>
+        <p>
+            登録されていた情報について確認が必要な場合は <a href="https://young-ridge-54750.herokuapp.com/">こちら</a> からご確認ください。
+        </p>
+    </div>
 </body>
 </html>
